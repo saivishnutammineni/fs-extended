@@ -1,0 +1,26 @@
+{
+  "name": "fs-extended",
+  "version": "1.0.0",
+  "description": "extension to node js fs module with rxjs observables for async operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saivishnutammineni/fs-extended.git"
+  },
+  "keywords": [
+    "fs",
+    "node",
+    "rxjs",
+    "fs-extended",
+    "fs-async"
+  ],
+  "author": "sai vishnu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saivishnutammineni/fs-extended/issues"
+  },
+  "homepage": "https://github.com/saivishnutammineni/fs-extended#readme"
+}
