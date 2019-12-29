@@ -10,9 +10,9 @@
             true,
             140
         ],
+        "member-access": false,
         "class-name": true,
         "arrow-return-shorthand": true,
-        "array-type": true,
         "adjacent-overload-signatures": true,
         "await-promise": true,
         "comment-format": true,
@@ -31,14 +31,12 @@
         "switch-final-break": true,
         "switch-default": true,
         "strict-type-predicates": true,
-        "strict-boolean-expressions": true,
         "semicolon": true,
         "import-blacklist": [
             true,
             "rxjs/Rx"
         ],
         "member-ordering": true,
-        "newline-per-chained-call": true,
         "no-shadowed-variable": true,
         "no-switch-case-fall-through": true,
         "no-trailing-whitespace": true,
