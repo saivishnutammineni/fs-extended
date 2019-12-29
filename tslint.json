@@ -1,0 +1,60 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "align": true,
+        "max-line-length": [
+            true,
+            140
+        ],
+        "class-name": true,
+        "arrow-return-shorthand": true,
+        "array-type": true,
+        "adjacent-overload-signatures": true,
+        "await-promise": true,
+        "comment-format": true,
+        "curly": true,
+        "deprecation": {
+            "severity": "warn"
+        },
+        "eofline": true,
+        "import-spacing": true,
+        "indent": true,
+        "whitespace": true,
+        "variable-name": true,
+        "typeof-compare": true,
+        "triple-equals": true,
+        "trailing-comma": true,
+        "switch-final-break": true,
+        "switch-default": true,
+        "strict-type-predicates": true,
+        "strict-boolean-expressions": true,
+        "semicolon": true,
+        "import-blacklist": [
+            true,
+            "rxjs/Rx"
+        ],
+        "member-ordering": true,
+        "newline-per-chained-call": true,
+        "no-shadowed-variable": true,
+        "no-switch-case-fall-through": true,
+        "no-trailing-whitespace": true,
+        "no-unnecessary-type-assertion": true,
+        "no-unused-variable": true,
+        "no-unused-expression": true,
+        "no-var-keyword": true,
+        "prefer-const": true,
+        "prefer-switch": true,
+        "radix": true,
+        "no-use-before-declare": true,
+        "no-non-null-assertion": true,
+        "no-var-requires": false,
+        "quotemark": {
+            "options": "single"
+        }
+    },
+    "rulesDirectory": []
+}

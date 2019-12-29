@@ -27,8 +27,9 @@
     "rxjs": "6.5.3"
   },
   "devDependencies": {
-    "@types/node": "12.12.21*",
-    "typescript": "3.4.5*",
-    "ts-node": "8.1.0*"
+    "@types/node": "12.12.21",
+    "ts-lint": "4.5.1",
+    "ts-node": "8.1.0",
+    "typescript": "3.4.5"
   }
 }
